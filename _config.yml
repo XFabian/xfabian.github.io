@@ -86,7 +86,7 @@ author:
   location         : "Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : https://scholar.google.com/citations?hl=en&user=6SntjfEAAAAJ
   email            : xaver.fabian@cispa.de
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -172,6 +172,7 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+# See https://www.danielsieger.com/blog/2019/03/03/publication-pages-using-jekyll-collections.html
 
 # Collections
 collections:
@@ -309,3 +310,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
