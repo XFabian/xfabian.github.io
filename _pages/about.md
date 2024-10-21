@@ -14,8 +14,6 @@ I am also a member of the [Graduate School of Computer Science](https://www.grad
 
 
 
-## Publications 
-
 ## Academic Service
 - Workshop PC: [FCS'24](https://fcs-workshop.github.io/fcs2024/), [PriSC'25](https://popl25.sigplan.org/home/prisc-2025)
 
