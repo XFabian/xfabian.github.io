@@ -11,4 +11,5 @@ paperarxiv: 'https://arxiv.org/abs/2209.01179'
 paperacm: 'https://dl.acm.org/doi/10.1145/3548606.3560555'
 distaward: true
 slides: 'http://xfabian.github.io/files/ccs22_slides.pdf'
+github: 'https://github.com/XFabian/Spectector-Combined'
 ---

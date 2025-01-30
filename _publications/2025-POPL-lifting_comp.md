@@ -10,4 +10,5 @@ paperurl: 'http://xfabian.github.io/files/popl25.pdf'
 paperarxiv: 'https://arxiv.org/abs/2405.10089'
 paperacm: 'https://dl.acm.org/doi/10.1145/3704867'
 slides: 'http://xfabian.github.io/files/popl25_slides.pdf'
+github: 'https://github.com/XFabian/secure_comp_lifting'
 ---
