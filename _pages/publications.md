@@ -14,3 +14,6 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+## Academic Service
+- Workshop PC: [FCS'24](https://fcs-workshop.github.io/fcs2024/), [PriSC'25](https://popl25.sigplan.org/home/prisc-2025)

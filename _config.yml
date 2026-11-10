@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xaver Fabian"
 title_separator          : "-"
 name                     : &name "Xaver Fabian"
-description              : &description "personal description"
+description              : &description "Xaver Fabian: compilers, programming languages, and secure compilation."
 url                      : https://xfabian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "XFabian/xfabian.github.io"
@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "profile_new.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Xaver Fabian"
   avatar           : "profile_new.png"
-  bio              : "PhD student CISPA Helmholtz Center for Information Security"
+  bio              : "Compiler Engineer at Variant Security · PhD in Computer Science"
   location         : "Germany"
-  employer         :
+  employer         : "Variant Security"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : https://scholar.google.com/citations?hl=en&user=6SntjfEAAAAJ
-  email            : xaver.fabian@cispa.de
+  email            : xaver.fabian@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "xaver-fabian"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

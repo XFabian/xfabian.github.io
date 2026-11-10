@@ -6,5 +6,5 @@ date: 2024-01-20
 authors: Fabian, Guarnieri, Backes
 fullauthors: Xaver Fabian, Marco Guarnieri, Michael Backes
 venue: PriSC'24
-paperurl: 'http://xfabian.github.io/files/prisc24.pdf'
+paperurl: 'https://xfabian.github.io/files/prisc24.pdf'
 ---
