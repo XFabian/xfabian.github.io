@@ -63,7 +63,7 @@
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
     {% elsif post.paperurl %}
-       <a href=" {{ post.paperurl }} " title="PDF" targets="_blank" class="fa fa-file-pdf logo-link fa-lg"></a>
+       <a href=" {{ post.paperurl }} " title="PDF" target="_blank" rel="noopener" class="fa fa-file-pdf logo-link fa-lg"></a>
     {% endif %}
     {% if post.paperarxiv %}
       [<a href=" {{ post.paperarxiv }} "><u>arxiv</u></a>]
@@ -72,10 +72,10 @@
       [<a href=" {{ post.paperacm }} "><u>acm</u></a>]
     {% endif %}
     {% if post.slides %}
-       <a href=" {{ post.slides }} " title="Slides" targets="_blank" class="fab fa-slideshare" aria-hidden="true"></a>
+       <a href=" {{ post.slides }} " title="Slides" target="_blank" rel="noopener" class="fab fa-slideshare" aria-hidden="true"></a>
     {% endif %}
     {% if post.github %}
-       <a href=" {{ post.github }} " title="Slides" targets="_blank" class="fab fa-github" aria-hidden="true"></a>
+       <a href=" {{ post.github }} " title="GitHub" target="_blank" rel="noopener" class="fab fa-github" aria-hidden="true"></a>
     {% endif %}
   </article>
 </div>
